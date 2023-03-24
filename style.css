@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#APP{
+    background-color: khaki;
+}
+#games{
+    background-color: tomato;
+}
+img{
+    height: 200px ;
+}
